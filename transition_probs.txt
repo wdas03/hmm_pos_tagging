@@ -1,0 +1,13 @@
+from_tag,to_tag,prob
+start,DT,0.7
+start,NNZ,0.2
+start,VBZ,0.1
+DT,NNZ,1.0
+NNZ,IN,0.2
+NNZ,VBZ,0.6
+NNZ,NNZ,0.2
+IN,NNZ,0.3
+IN,DT,0.7
+VBZ,IN,0.2
+VBZ,DT,0.4
+VBZ,NNZ,0.4

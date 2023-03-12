@@ -1,0 +1,9 @@
+word,tag,prob
+time,VBZ,0.2
+flies,VBZ,0.3
+like,VBZ,0.5
+time,NNZ,0.3
+flies,NNZ,0.2
+arrow,NNZ,0.5
+like,IN,1.0
+an,DT,1.0
